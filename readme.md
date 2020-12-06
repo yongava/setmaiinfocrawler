@@ -1,5 +1,5 @@
 
-Crawl data from set to get short info of SET&MAI. 
+Crawl data from setpage to get short info of SET&MAI. 
 ----
 Here's example result.
 ----
