@@ -1,5 +1,7 @@
 
-Example json result.
+Crawl data from set to get short info of SET&MAI. 
+----
+Here's example result.
 ----
 
 ```json
